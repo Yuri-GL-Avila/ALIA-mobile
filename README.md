@@ -194,4 +194,8 @@ A conexão com a plataforma web representa uma evolução importante do protóti
 
 O resultado demonstra o funcionamento de uma solução integrada entre aplicativo mobile, plataforma web e banco de dados, mantendo o foco em acessibilidade, usabilidade e segurança feminina.
 
+**INTEGRANTES: 
+Ana Beatriz Ferreira de Souza - RM566313
+Yuri Guerreiro Lopes de Avila - RM563361**
+
 **ALIA — Alerta Inteligente de Apoio**
